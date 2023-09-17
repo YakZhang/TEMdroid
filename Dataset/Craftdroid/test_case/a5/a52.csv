@@ -1,0 +1,8 @@
+,content_desc,text,type,id,xpath,action,current_activity,b1,b2,activity,input
+0,,,gui,com.appsbyvir.tipcalculator:id/billEditText,,clear_and_send_keys,,0,,.MainActivity,56.6
+1,,15,gui,com.appsbyvir.tipcalculator:id/tipEditText,,clear_and_send_keys_and_hide_keyboard,,1,,.MainActivity,15
+2,,65.09,oracle,com.appsbyvir.tipcalculator:id/finalBillEditText,,wait_until_text_presence,,2,,.MainActivity,65.09
+3,,,gui,com.appsbyvir.tipcalculator:id/billEditText,,clear_and_send_keys,,,0,.MainActivity,56.6
+4,,15,gui,com.appsbyvir.tipcalculator:id/tipEditText,,clear_and_send_keys_and_hide_keyboard,,,1,.MainActivity,15
+5,,# of ways,gui,com.appsbyvir.tipcalculator:id/splitBillEditText,,clear_and_send_keys_and_hide_keyboard,,,2,.MainActivity,4
+6,,16.27,oracle,com.appsbyvir.tipcalculator:id/perPersonEditText,,wait_until_text_presence,,,3,.MainActivity,16.27

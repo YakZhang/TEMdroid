@@ -1,0 +1,19 @@
+,content_desc,text,type,id,xpath,action,b1,b2,activity,input
+0,,Get Started,oracle,com.etsy.android:id/btn_link,,wait_until_element_presence,,0,.ui.homescreen.HomescreenTabsActivity,
+1,,Get Started,gui,com.etsy.android:id/btn_link,,click,,1,.ui.homescreen.HomescreenTabsActivity,
+2,,Sign In,oracle,com.etsy.android:id/btn_sign_in_dialog,,wait_until_element_presence,,2,.ui.user.auth.SignInActivity,
+3,,Sign In,gui,com.etsy.android:id/btn_sign_in_dialog,,click,,3,.ui.user.auth.SignInActivity,
+4,,,oracle,com.etsy.android:id/edit_password,,wait_until_element_presence,,4,.ui.user.auth.SignInActivity,
+5,,,gui,com.etsy.android:id/edit_password,,send_keys,,5,.ui.user.auth.SignInActivity,password
+6,,Email or Username,gui,com.etsy.android:id/edit_username,,send_keys_and_hide_keyboard,,6,.ui.user.auth.SignInActivity,email
+7,,Sign In,gui,com.etsy.android:id/button_signin,,click,,7,.ui.user.auth.SignInActivity,
+13,,Get Started,oracle,com.etsy.android:id/btn_link,,wait_until_element_presence,0,,.ui.homescreen.HomescreenTabsActivity,
+14,,Get Started,gui,com.etsy.android:id/btn_link,,click,1,,.ui.homescreen.HomescreenTabsActivity,
+15,,Register,gui,com.etsy.android:id/btn_register_dialog,,click,2,,.ui.user.auth.SignInActivity,
+16,,Your Email,oracle,com.etsy.android:id/edit_email,,wait_until_element_presence,3,,.ui.user.auth.SignInActivity,
+17,,Your Email,gui,com.etsy.android:id/edit_email,,send_keys,4,,.ui.user.auth.SignInActivity,email
+18,,,gui,com.etsy.android:id/edit_register_password,,send_keys,5,,.ui.user.auth.SignInActivity,password
+19,,,gui,com.etsy.android:id/edit_password_confirm,,clear_and_send_keys,6,,.ui.user.auth.SignInActivity,password
+20,,Last Name,gui,com.etsy.android:id/edit_last_name,,send_keys,7,,.ui.user.auth.SignInActivity,name
+21,,First Name,gui,com.etsy.android:id/edit_first_name,,send_keys_and_hide_keyboard,8,,.ui.user.auth.SignInActivity,name
+22,,Register,gui,com.etsy.android:id/button_register,,click,9,,.ui.user.auth.SignInActivity,

@@ -1,0 +1,8 @@
+,content_desc,text,type,id,xpath,action,current_activity,b1,b2,activity,input
+0,,0,gui,anti.tip:id/bill,,clear_and_send_keys,,,0,.Tip,56.6
+1,,15,gui,anti.tip:id/percent,,clear_and_send_keys,,,1,.Tip,15
+2,,1,gui,anti.tip:id/people,,clear_and_send_keys_and_hide_keyboard,,,2,.Tip,4
+3,,16.27,oracle,anti.tip:id/each,,wait_until_text_presence,,,3,.Tip,16.27
+4,,0,gui,anti.tip:id/bill,,clear_and_send_keys,,0,,.Tip,56.6
+5,,15,gui,anti.tip:id/percent,,clear_and_send_keys_and_hide_keyboard,,1,,.Tip,15
+6,,65.09,oracle,anti.tip:id/total,,wait_until_text_presence,,2,,.Tip,65.09

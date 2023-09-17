@@ -1,0 +1,11 @@
+,content_desc,text,type,id,xpath,action,current_activity,b1,b2,activity,input
+0,,,gui,com.android.browser:id/url,,click,,0,,.BrowserActivity,
+1,,https://www.google.com/webhp?client=ms-android-google&source=android-home,gui,com.android.browser:id/url,,send_keys_and_enter,,1,,.BrowserActivity,https://www.ics.uci.edu
+2,Donald Bren School of Information and Computer Sciences,,oracle,,"//android.view.View[@content-desc=""Donald Bren School of Information and Computer Sciences""]",wait_until_element_presence,,2,,.BrowserActivity,
+3,,https://www.google.com/webhp?client=ms-android-google&source=android-home,gui,com.android.browser:id/url,,click,,,0,.BrowserActivity,
+4,,https://www.google.com/webhp?client=ms-android-google&source=android-home,gui,com.android.browser:id/url,,send_keys_and_enter,,,1,.BrowserActivity,https://www.ics.uci.edu
+5,Donald Bren School of Information and Computer Sciences,,oracle,,"//android.view.View[@content-desc=""Donald Bren School of Information and Computer Sciences""]",wait_until_element_presence,,,2,.BrowserActivity,
+6,,https://www.google.com/webhp?client=ms-android-google&source=android-home,gui,com.android.browser:id/url,,send_keys_and_enter,,,3,.BrowserActivity,https://uci.edu
+7,UCI homepage,,oracle,,"//android.view.View[@content-desc=""UCI homepage""]",wait_until_element_presence,,,4,.BrowserActivity,
+8,,,SYS_EVENT,,,,,,5,,
+9,Donald Bren School of Information and Computer Sciences,,oracle,,"//android.view.View[@content-desc=""Donald Bren School of Information and Computer Sciences""]",wait_until_element_presence,,,6,.BrowserActivity,

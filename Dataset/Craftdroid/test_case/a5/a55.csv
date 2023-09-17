@@ -1,0 +1,10 @@
+,content_desc,text,type,id,xpath,action,current_activity,b1,b2,activity,input
+0,,1,gui,com.jpstudiosonline.tipcalculator:id/etBillTotal,,clear_and_send_keys,,,0,.MainActivity,56.6
+1,,15,gui,com.jpstudiosonline.tipcalculator:id/etTipAmount,,clear_and_send_keys,,,1,.MainActivity,15
+2,,1,gui,com.jpstudiosonline.tipcalculator:id/etPerson,,clear_and_send_keys_and_hide_keyboard,,,2,.MainActivity,4
+3,,Calculate,gui,com.jpstudiosonline.tipcalculator:id/btCalculate,,click,,,3,.MainActivity,
+4,,$16.27 ,oracle,com.jpstudiosonline.tipcalculator:id/tvPersonPay,,wait_until_text_presence,,,4,.MainActivity,16.27
+5,,1,gui,com.jpstudiosonline.tipcalculator:id/etBillTotal,,clear_and_send_keys,,0,,.MainActivity,56.6
+6,,15,gui,com.jpstudiosonline.tipcalculator:id/etTipAmount,,clear_and_send_keys_and_hide_keyboard,,1,,.MainActivity,15
+7,,Calculate,gui,com.jpstudiosonline.tipcalculator:id/btCalculate,,click,,2,,.MainActivity,
+8,,$65.09 ,oracle,com.jpstudiosonline.tipcalculator:id/tvTotalWithTip,,wait_until_text_presence,,3,,.MainActivity,65.09

@@ -1,0 +1,71 @@
+widget1,widget1_app,widget1_function,widget1_index,text_feature1,text_feature2,predict_score,tgt_resource,tgt_content,tgt_text,evaluate
+a31/b1-0,a31,b1,0,create account login fragment create account button,email login email,0.92214583,login_email,,Email,fp
+a31/b1-1,a31,b1,1,create account login fragment create account button,email login email,0.92214583,login_email,,Email,fp
+a31/b1-2,a31,b1,2,email create account fragment email text,email login email,0.932551233,login_email,,Email,tp
+a31/b1-3,a31,b1,3,email create account fragment email text,email login email,0.932551233,login_email,,Email,tp
+a31/b1-4,a31,b1,4,confirm email create account fragment confirm email text,"by creating an account and signing up to 5miles, you agree to the terms of use and privacy policy. txt terms",0.895597955,txt_terms,,"By creating an account and signing up to 5miles, You agree to the Terms of Use and Privacy Policy.",fp
+a31/b1-5,a31,b1,5,create account fragment password text password,password (6_16 characters) login password,0.929189697,login_password,,Password (6_16 characters),tp
+a31/b1-6,a31,b1,6,last name create account fragment last name text,last name login last name,0.949504325,login_last_name,,Last Name,tp
+a31/b1-7,a31,b1,7,first name create account fragment first name text,first name login first name,0.949271,login_first_name,,First Name,tp
+a31/b1-8,a31,b1,8,create account create account fragment create account button,email login email,0.874634085,login_email,,Email,fp
+a31/b2-0,a31,b2,0,sign in login fragment sign in button,sign in login login,0.8814622,login_login,,Sign In,tp
+a31/b2-1,a31,b2,1,sign in login fragment sign in button,sign in login login,0.8814622,login_login,,Sign In,tp
+a31/b2-2,a31,b2,2,sign in fragment password text password,password (6_16 characters) login password,0.947425136,login_password,,Password (6_16 characters),tp
+a31/b2-3,a31,b2,3,sign in fragment password text password,password (6_16 characters) login password,0.947425136,login_password,,Password (6_16 characters),tp
+a31/b2-4,a31,b2,4,email sign in fragment email text,email login email,0.94762166,login_email,,Email,tp
+a31/b2-5,a31,b2,5,sign in sign in fragment sign in button,navigation bar background,0.887385996,navigationBarBackground,,,fp
+a31/b2-6,a31,b2,6,,,,,,,fn
+a31/b2-7,a31,b2,7,,,,,,,fn
+a32/b1-0,a32,b1,0,new? create an account sign in fragment create account button,email login email,0.90594064,login_email,,Email,fp
+a32/b1-1,a32,b1,1,new? create an account sign in fragment create account button,email login email,0.90594064,login_email,,Email,fp
+a32/b1-2,a32,b1,2,email address create account fragment email text,email login email,0.926190659,login_email,,Email,tp
+a32/b1-3,a32,b1,3,email address create account fragment email text,email login email,0.926190659,login_email,,Email,tp
+a32/b1-4,a32,b1,4,create account fragment password text password,password (6_16 characters) login password,0.929189697,login_password,,Password (6_16 characters),tp
+a32/b1-5,a32,b1,5,last name create account fragment last name text,last name login last name,0.949504325,login_last_name,,Last Name,tp
+a32/b1-6,a32,b1,6,first name create account fragment first name text,first name login first name,0.949271,login_first_name,,First Name,tp
+a32/b1-7,a32,b1,7,create an account create account fragment create account button,email login email,0.864400806,login_email,,Email,fp
+a32/b2-0,a32,b2,0,sign in fragment password text password,password (6_16 characters) login password,0.947425136,login_password,,Password (6_16 characters),tp
+a32/b2-1,a32,b2,1,sign in fragment password text password,password (6_16 characters) login password,0.947425136,login_password,,Password (6_16 characters),tp
+a32/b2-2,a32,b2,2,email sign in fragment email text,email login email,0.94762166,login_email,,Email,tp
+a32/b2-3,a32,b2,3,sign in sign in fragment sign in button,"by creating an account and signing up to 5miles, you agree to the terms of use and privacy policy. txt terms",0.89554095,txt_terms,,"By creating an account and signing up to 5miles, You agree to the Terms of Use and Privacy Policy.",fp
+a34/b1-0,a34,b1,0,get started button link,sign in login login,0.837506304,login_login,,Sign In,fp
+a34/b1-1,a34,b1,1,get started button link,sign in login login,0.837506304,login_login,,Sign In,fp
+a34/b1-2,a34,b1,2,register button register dialog,email login email,0.89672571,login_email,,Email,fp
+a34/b1-3,a34,b1,3,your email edit email,email login email,0.94953389,login_email,,Email,tp
+a34/b1-4,a34,b1,4,your email edit email,email login email,0.94953389,login_email,,Email,tp
+a34/b1-5,a34,b1,5,edit register password password,password (6_16 characters) login password,0.94524944,login_password,,Password (6_16 characters),tp
+a34/b1-6,a34,b1,6,,,,,,,tn
+a34/b1-7,a34,b1,7,last name edit last name,last name login last name,0.97942157,login_last_name,,Last Name,tp
+a34/b1-8,a34,b1,8,first name edit first name,first name login first name,0.979605125,login_first_name,,First Name,tp
+a34/b1-9,a34,b1,9,register button register,email login email,0.8875107,login_email,,Email,fp
+a34/b2-0,a34,b2,0,get started button link,sign in login login,0.837506304,login_login,,Sign In,fp
+a34/b2-1,a34,b2,1,get started button link,sign in login login,0.837506304,login_login,,Sign In,fp
+a34/b2-2,a34,b2,2,sign in button sign in dialog,sign in login login,0.869277524,login_login,,Sign In,tp
+a34/b2-3,a34,b2,3,sign in button sign in dialog,sign in login login,0.869277524,login_login,,Sign In,tp
+a34/b2-4,a34,b2,4,edit password password,password (6_16 characters) login password,0.961629007,login_password,,Password (6_16 characters),tp
+a34/b2-5,a34,b2,5,edit password password,password (6_16 characters) login password,0.961629007,login_password,,Password (6_16 characters),tp
+a34/b2-6,a34,b2,6,email or username edit username,email login email,0.904445444,login_email,,Email,tp
+a34/b2-7,a34,b2,7,sign in button signin,navigation bar background,0.899012844,navigationBarBackground,,,fp
+a35/b1-0,a35,b1,0,me me hot button profile,sign in login login,0.82998738,login_login,,Sign In,fp
+a35/b1-1,a35,b1,1,me me hot button profile,sign in login login,0.82998738,login_login,,Sign In,fp
+a35/b1-2,a35,b1,2,sign up sign up button,sign in login login,0.83836397,login_login,,Sign In,fp
+a35/b1-3,a35,b1,3,sign up sign up button,sign in login login,0.83836397,login_login,,Sign In,fp
+a35/b1-4,a35,b1,4,sign up with email email sign up,email login email,0.925959872,login_email,,Email,tp
+a35/b1-5,a35,b1,5,sign up with email email sign up,email login email,0.925959872,login_email,,Email,tp
+a35/b1-6,a35,b1,6,email email address,email login email,0.966242713,login_email,,Email,tp
+a35/b1-7,a35,b1,7,email email address,email login email,0.966242713,login_email,,Email,tp
+a35/b1-8,a35,b1,8,password password,password (6_16 characters) login password,0.99483085,login_password,,Password (6_16 characters),tp
+a35/b1-9,a35,b1,9,,,,,,,tn
+a35/b1-10,a35,b1,10,last name last name,last name login last name,0.99903529,login_last_name,,Last Name,tp
+a35/b1-11,a35,b1,11,first name first name,first name login first name,0.999867556,login_first_name,,First Name,tp
+a35/b1-12,a35,b1,12,next signup next button 2,smith this email doesn__ seem to work. textinput error,0.84130659,textinput_error,,Oops. This email doesn__ seem to work.,fp
+a35/b1-13,a35,b1,13,sign up signup button,email login email,0.87727455,login_email,,Email,fp
+a35/b2-0,a35,b2,0,me me hot button profile,sign in login login,0.82998765,login_login,,Sign In,fp
+a35/b2-1,a35,b2,1,me me hot button profile,sign in login login,0.82998765,login_login,,Sign In,fp
+a35/b2-2,a35,b2,2,log in log in button,sign in login login,0.903924827,login_login,,Sign In,tp
+a35/b2-3,a35,b2,3,log in log in button,sign in login login,0.903924827,login_login,,Sign In,tp
+a35/b2-4,a35,b2,4,password activity login edit password,password (6_16 characters) login password,0.961873087,login_password,,Password (6_16 characters),tp
+a35/b2-5,a35,b2,5,password activity login edit password,password (6_16 characters) login password,0.961873087,login_password,,Password (6_16 characters),tp
+a35/b2-6,a35,b2,6,email activity login editusername,email login email,0.946851756,login_email,,Email,tp
+a35/b2-7,a35,b2,7,log in activity login btnlogin,register register register,0.89284473,register_register,,Register,fp
+a35/b2-8,a35,b2,8,alice smith user profile name,first name login first name,0.919353215,login_first_name,,First Name,fp

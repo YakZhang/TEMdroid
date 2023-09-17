@@ -1,0 +1,11 @@
+,state_name,content_desc,text,type,id,xpath,action,current_activity,b1,b2,activity,input
+0,a24/home.xml,,New List Name,gui,kdk.android.simplydo:id/AddListEditText,,send_keys_and_hide_keyboard,,0,,.SimplyDoActivity,Sample\bTo\bdo
+1,a24/list.xml,,Add,gui,kdk.android.simplydo:id/AddListButton,,click,,1,,.SimplyDoActivity,
+2,a24/list.xml,,Sample Todo,oracle,kdk.android.simplydo:id/text1,"//android.widget.TextView[@text=""Sample Todo""]",wait_until_element_presence,,2,,.SimplyDoActivity,
+3,a24/home.xml,,New List Name,gui,kdk.android.simplydo:id/AddListEditText,,send_keys_and_hide_keyboard,,,0,.SimplyDoActivity,Sample\bTo\bdo
+4,a24/list.xml,,Add,gui,kdk.android.simplydo:id/AddListButton,,click,,,1,.SimplyDoActivity,
+5,a24/list.xml,,Sample Todo,oracle,kdk.android.simplydo:id/text1,,wait_until_text_presence,,,2,.SimplyDoActivity,Sample\bTodo
+6,a24/list.xml,,Sample Todo,gui,kdk.android.simplydo:id/text1,,long_press,,,3,.SimplyDoActivity,
+7,a24/function.xml,,Delete,gui,android:id/title,,click,,,4,.SimplyDoActivity,
+8,a24/delete.xml,,Yes,gui,android:id/button1,,click,,,5,.SimplyDoActivity,
+9,a24/list.xml,,Sample Todo,oracle,kdk.android.simplydo:id/text1,,wait_until_text_invisible,,,6,.SimplyDoActivity,Sample\bTodo

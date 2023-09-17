@@ -1,0 +1,12 @@
+,content_desc,text,type,id,xpath,action,current_activity,b1,b2,activity,input
+0,,,gui,douzifly.list:id/fab_add,,click,,0,,.ui.home.MainActivity,
+1,,Title,gui,douzifly.list:id/edit_text,,send_keys_and_hide_keyboard,,1,,.ui.home.MainActivity,Sample\bTodo
+2,,,gui,douzifly.list:id/fab_add,,click,,2,,.ui.home.MainActivity,
+3,,Sample Todo,oracle,douzifly.list:id/txt_thing,"//android.widget.TextView[@text=""Sample Todo""]",wait_until_element_presence,,3,,.ui.home.MainActivity,
+4,,,gui,douzifly.list:id/fab_add,,click,,,0,.ui.home.MainActivity,
+5,,Title,gui,douzifly.list:id/edit_text,,send_keys_and_hide_keyboard,,,1,.ui.home.MainActivity,Sample\bTodo
+6,,,gui,douzifly.list:id/fab_add,,click,,,2,.ui.home.MainActivity,
+7,,Sample Todo,oracle,douzifly.list:id/txt_thing,,wait_until_text_presence,,,3,.ui.home.MainActivity,Sample\bTodo
+8,,Sample Todo,gui,douzifly.list:id/txt_thing,,swipe_right,,,4,.ui.home.MainActivity,
+9,,DELETE,gui,douzifly.list:id/btn_delete,,click,,,5,.ui.home.MainActivity,
+10,,Sample Todo,oracle,douzifly.list:id/txt_thing,,wait_until_text_invisible,,,6,.ui.home.MainActivity,Sample\bTodo
