@@ -2,7 +2,7 @@
 
 import networkx as nx
 import json
-from droidbot.Migration.dump_utg import query_node
+from exploration.Migration.dump_utg import query_node
 
 
 def create_graph(utg_data):
