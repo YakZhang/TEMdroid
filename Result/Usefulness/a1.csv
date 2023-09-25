@@ -7,7 +7,7 @@ a11/b2-1,search search,homepage search,0.90068333,search,,Homepage,a11,b2,1,tp
 a11/b2-2,donald bren school of information and computer sciences,donald bren school of information and computer sciences,1,,Donald Bren School of Information and Computer Sciences,,a11,b2,2,tp
 a11/b2-3,search search,homepage search,0.90068333,search,,Homepage,a11,b2,3,tp
 a11/b2-4,uci homepage,uci homepage,1,,UCI Homepage,,a11,b2,4,tp
-a11/b2-5,SYS_EVENT,SYS_EVENT,,,,,a11,b2,5,tp
+a11/b2-5,SYS_EVENT,SYS_EVENT,1,,,,a11,b2,5,tp
 a11/b2-6,donald bren school of information and computer sciences,donald bren school of information and computer sciences,1,,Donald Bren School of Information and Computer Sciences,,a11,b2,6,tp
 a12/b1-0,https:www.google.com url,homepage search,0.84609675,search,,Homepage,a12,b1,0,tp
 a12/b1-1,https:www.google.com url,homepage search,0.84609675,search,,Homepage,a12,b1,1,tp
@@ -17,7 +17,7 @@ a12/b2-1,https:www.google.com url,homepage search,0.8460972,search,,Homepage,a12
 a12/b2-2,donald bren school of information and computer sciences,donald bren school of information and computer sciences,1,,Donald Bren School of Information and Computer Sciences,,a12,b2,2,tp
 a12/b2-3,https:www.google.com url,homepage search,0.8460972,search,,Homepage,a12,b2,3,tp
 a12/b2-4,uci homepage,uci homepage,1,,UCI Homepage,,a12,b2,4,tp
-a12/b2-5,SYS_EVENT,SYS_EVENT,,,,,a12,b2,5,tp
+a12/b2-5,SYS_EVENT,SYS_EVENT,1,,,,a12,b2,5,tp
 a12/b2-6,donald bren school of information and computer sciences,donald bren school of information and computer sciences,1,,Donald Bren School of Information and Computer Sciences,,a12,b2,6,tp
 a13/b1-0,https:html.duckduckgo.com url edit text,homepage search,0.85257576,search,,Homepage,a13,b1,0,tp
 a13/b1-1,https:html.duckduckgo.com url edit text,homepage search,0.85257576,search,,Homepage,a13,b1,1,tp
@@ -27,7 +27,7 @@ a13/b2-1,https:html.duckduckgo.com url edit text,homepage search,0.852575166,sea
 a13/b2-2,donald bren school of information and computer sciences,donald bren school of information and computer sciences,1,,Donald Bren School of Information and Computer Sciences,,a13,b2,2,tp
 a13/b2-3,https:html.duckduckgo.com url edit text,homepage search,0.852575166,search,,Homepage,a13,b2,3,tp
 a13/b2-4,uci homepage,uci homepage,1,,UCI Homepage,,a13,b2,4,tp
-a13/b2-5,SYS_EVENT,SYS_EVENT,,,,,a13,b2,5,tp
+a13/b2-5,SYS_EVENT,SYS_EVENT,1,,,,a13,b2,5,tp
 a13/b2-6,donald bren school of information and computer sciences,donald bren school of information and computer sciences,1,,Donald Bren School of Information and Computer Sciences,,a13,b2,6,tp
 a14/b1-0,float button ok,1 tabs button,0.910876173,tabs_button,1,,a14,b1,0,fp
 a14/b1-1,search or type url main omnibox input,homepage search,0.856175774,search,,Homepage,a14,b1,1,tp
@@ -39,7 +39,7 @@ a14/b2-2,search or type url main omnibox input,homepage search,0.856175774,searc
 a14/b2-3,donald bren school of information and computer sciences,donald bren school of information and computer sciences,1,,Donald Bren School of Information and Computer Sciences,,a14,b2,3,tp
 a14/b2-4,search or type url main omnibox input,homepage search,0.856175774,search,,Homepage,a14,b2,4,tp
 a14/b2-5,uci homepage,uci homepage,1,,UCI Homepage,,a14,b2,5,tp
-a14/b2-6,SYS_EVENT,SYS_EVENT,,,,,a14,b2,6,tp
+a14/b2-6,SYS_EVENT,SYS_EVENT,1,,,,a14,b2,6,tp
 a14/b2-7,donald bren school of information and computer sciences,donald bren school of information and computer sciences,1,,Donald Bren School of Information and Computer Sciences,,a14,b2,7,tp
 a15/b1-0,,,,,,,a15,b1,0,tn
 a15/b1-1,search or enter address url view,homepage search,0.863431307,search,,Homepage,a15,b1,1,tp
@@ -51,5 +51,5 @@ a15/b2-2,search or enter address url view,homepage search,0.86343131,search,,Hom
 a15/b2-3,donald bren school of information and computer sciences,donald bren school of information and computer sciences,1,,Donald Bren School of Information and Computer Sciences,,a15,b2,3,tp
 a15/b2-4,,,,,,,a15,b2,4,fn
 a15/b2-5,,,,,,,a15,b2,5,fn
-a15/b2-6,SYS_EVENT,SYS_EVENT,,,,,a15,b2,6,tp
+a15/b2-6,SYS_EVENT,SYS_EVENT,1,,,,a15,b2,6,tp
 a15/b2-7,donald bren school of information and computer sciences,donald bren school of information and computer sciences,1,,Donald Bren School of Information and Computer Sciences,,a15,b2,7,tp
