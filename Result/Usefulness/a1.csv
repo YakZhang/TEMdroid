@@ -1,0 +1,55 @@
+widget1,text_feature1,text_feature2,tgt_resource,tgt_content,tgt_text,widget1_app,widget1_function,widget1_index,evaluate
+a11/b1-0,search search,homepage search,search,,Homepage,a11,b1,0,tp
+a11/b1-1,search search,homepage search,search,,Homepage,a11,b1,1,tp
+a11/b1-2,donald bren school of information and computer sciences,donald bren school of information and computer sciences,,Donald Bren School of Information and Computer Sciences,,a11,b1,2,tp
+a11/b2-0,search search,homepage search,search,,Homepage,a11,b2,0,tp
+a11/b2-1,search search,homepage search,search,,Homepage,a11,b2,1,tp
+a11/b2-2,donald bren school of information and computer sciences,donald bren school of information and computer sciences,,Donald Bren School of Information and Computer Sciences,,a11,b2,2,tp
+a11/b2-3,search search,homepage search,search,,Homepage,a11,b2,3,tp
+a11/b2-4,uci homepage,uci homepage,,UCI Homepage,,a11,b2,4,tp
+a11/b2-5,SYS_EVENT,SYS_EVENT,,,,a11,b2,5,tp
+a11/b2-6,donald bren school of information and computer sciences,donald bren school of information and computer sciences,,Donald Bren School of Information and Computer Sciences,,a11,b2,6,tp
+a12/b1-0,https:www.google.com url,homepage search,search,,Homepage,a12,b1,0,tp
+a12/b1-1,https:www.google.com url,homepage search,search,,Homepage,a12,b1,1,tp
+a12/b1-2,donald bren school of information and computer sciences,donald bren school of information and computer sciences,,Donald Bren School of Information and Computer Sciences,,a12,b1,2,tp
+a12/b2-0,https:www.google.com url,homepage search,search,,Homepage,a12,b2,0,tp
+a12/b2-1,https:www.google.com url,homepage search,search,,Homepage,a12,b2,1,tp
+a12/b2-2,donald bren school of information and computer sciences,donald bren school of information and computer sciences,,Donald Bren School of Information and Computer Sciences,,a12,b2,2,tp
+a12/b2-3,https:www.google.com url,homepage search,search,,Homepage,a12,b2,3,tp
+a12/b2-4,uci homepage,uci homepage,,UCI Homepage,,a12,b2,4,tp
+a12/b2-5,SYS_EVENT,SYS_EVENT,,,,a12,b2,5,tp
+a12/b2-6,donald bren school of information and computer sciences,donald bren school of information and computer sciences,,Donald Bren School of Information and Computer Sciences,,a12,b2,6,tp
+a13/b1-0,https:html.duckduckgo.com url edit text,homepage search,search,,Homepage,a13,b1,0,tp
+a13/b1-1,https:html.duckduckgo.com url edit text,homepage search,search,,Homepage,a13,b1,1,tp
+a13/b1-2,donald bren school of information and computer sciences,donald bren school of information and computer sciences,,Donald Bren School of Information and Computer Sciences,,a13,b1,2,tp
+a13/b2-0,https:html.duckduckgo.com url edit text,homepage search,search,,Homepage,a13,b2,0,tp
+a13/b2-1,https:html.duckduckgo.com url edit text,homepage search,search,,Homepage,a13,b2,1,tp
+a13/b2-2,donald bren school of information and computer sciences,donald bren school of information and computer sciences,,Donald Bren School of Information and Computer Sciences,,a13,b2,2,tp
+a13/b2-3,https:html.duckduckgo.com url edit text,homepage search,search,,Homepage,a13,b2,3,tp
+a13/b2-4,uci homepage,uci homepage,,UCI Homepage,,a13,b2,4,tp
+a13/b2-5,SYS_EVENT,SYS_EVENT,,,,a13,b2,5,tp
+a13/b2-6,donald bren school of information and computer sciences,donald bren school of information and computer sciences,,Donald Bren School of Information and Computer Sciences,,a13,b2,6,tp
+a14/b1-0,float button ok,1 tabs button,tabs_button,1,,a14,b1,0,fp
+a14/b1-1,search or type url main omnibox input,homepage search,search,,Homepage,a14,b1,1,tp
+a14/b1-2,search or type url main omnibox input,homepage search,search,,Homepage,a14,b1,2,tp
+a14/b1-3,donald bren school of information and computer sciences,donald bren school of information and computer sciences,,Donald Bren School of Information and Computer Sciences,,a14,b1,3,tp
+a14/b2-0,floatbutton ok,1 tabs button,tabs_button,1,,a14,b2,0,fp
+a14/b2-1,search or type url main omnibox input,homepage search,search,,Homepage,a14,b2,1,tp
+a14/b2-2,search or type url main omnibox input,homepage search,search,,Homepage,a14,b2,2,tp
+a14/b2-3,donald bren school of information and computer sciences,donald bren school of information and computer sciences,,Donald Bren School of Information and Computer Sciences,,a14,b2,3,tp
+a14/b2-4,search or type url main omnibox input,homepage search,search,,Homepage,a14,b2,4,tp
+a14/b2-5,uci homepage,uci homepage,,UCI Homepage,,a14,b2,5,tp
+a14/b2-6,SYS_EVENT,SYS_EVENT,,,,a14,b2,6,tp
+a14/b2-7,donald bren school of information and computer sciences,donald bren school of information and computer sciences,,Donald Bren School of Information and Computer Sciences,,a14,b2,7,tp
+a15/b1-0,,,,,,a15,b1,0,tn
+a15/b1-1,search or enter address url view,homepage search,search,,Homepage,a15,b1,1,tp
+a15/b1-2,search or enter address url view,homepage search,search,,Homepage,a15,b1,2,tp
+a15/b1-3,donald bren school of information and computer sciences,donald bren school of information and computer sciences,,Donald Bren School of Information and Computer Sciences,,a15,b1,3,tp
+a15/b2-0,,,,,,a15,b2,0,tn
+a15/b2-1,search or enter address url view,homepage search,search,,Homepage,a15,b2,1,tp
+a15/b2-2,search or enter address url view,homepage search,search,,Homepage,a15,b2,2,tp
+a15/b2-3,donald bren school of information and computer sciences,donald bren school of information and computer sciences,,Donald Bren School of Information and Computer Sciences,,a15,b2,3,tp
+a15/b2-4,,,,,,a15,b2,4,fn
+a15/b2-5,,,,,,a15,b2,5,fn
+a15/b2-6,SYS_EVENT,SYS_EVENT,,,,a15,b2,6,tp
+a15/b2-7,donald bren school of information and computer sciences,donald bren school of information and computer sciences,,Donald Bren School of Information and Computer Sciences,,a15,b2,7,tp

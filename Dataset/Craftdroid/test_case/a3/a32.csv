@@ -1,0 +1,13 @@
+,content_desc,text,type,id,xpath,action,b1,b2,activity,input
+0,,,oracle,com.contextlogic.wish:id/sign_in_fragment_password_text,,wait_until_element_presence,,0,.activity.login.signin.SignInActivity,
+1,,,gui,com.contextlogic.wish:id/sign_in_fragment_password_text,,send_keys,,1,.activity.login.signin.SignInActivity,password
+2,,Email,gui,com.contextlogic.wish:id/sign_in_fragment_email_text,,send_keys_and_hide_keyboard,,2,.activity.login.signin.SignInActivity,email
+3,,Sign In,gui,com.contextlogic.wish:id/sign_in_fragment_sign_in_button,,click,,3,.activity.login.signin.SignInActivity,
+7,,New? Create an Account,oracle,com.contextlogic.wish:id/sign_in_fragment_create_account_button,,wait_until_element_presence,0,,.activity.login.signin.SignInActivity,
+8,,New? Create an Account,gui,com.contextlogic.wish:id/sign_in_fragment_create_account_button,,click,1,,.activity.login.signin.SignInActivity,
+9,,Email Address,oracle,com.contextlogic.wish:id/create_account_fragment_email_text,,wait_until_element_presence,2,,.activity.login.createaccount.CreateAccountActivity,
+10,,Email Address,gui,com.contextlogic.wish:id/create_account_fragment_email_text,,send_keys,3,,.activity.login.createaccount.CreateAccountActivity,email
+11,,,gui,com.contextlogic.wish:id/create_account_fragment_password_text,,send_keys,4,,.activity.login.createaccount.CreateAccountActivity,password
+12,,Last Name,gui,com.contextlogic.wish:id/create_account_fragment_last_name_text,,send_keys,5,,.activity.login.createaccount.CreateAccountActivity,name
+13,,First Name,gui,com.contextlogic.wish:id/create_account_fragment_first_name_text,,send_keys_and_hide_keyboard,6,,.activity.login.createaccount.CreateAccountActivity,name
+14,,Create an Account,gui,com.contextlogic.wish:id/create_account_fragment_create_account_button,,click,7,,.activity.login.createaccount.CreateAccountActivity,

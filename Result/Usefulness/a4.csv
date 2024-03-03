@@ -1,0 +1,65 @@
+widget1,text_feature1,text_feature2,tgt_resource,tgt_content,tgt_text,widget1_app,widget1_function,widget1_index,evaluate
+a41/b1-0,reset your password subject,reset your password subject,subject,,Reset Your Password,a41,b1,0,tp
+a41/b1-1,search search,mails search icon search,icon_search,Mails search,,a41,b1,1,tp
+a41/b1-2,search search src text,search text search text,search_text,,Search Text,a41,b1,2,tp
+a41/b1-3,search search src text,search text search text,search_text,,Search Text,a41,b1,3,tp
+a41/b1-4,reset your password subject,reset your password subject,subject,,Reset Your Password,a41,b1,4,tp
+a41/b2-0,inbox actionbar title first,inbox 5 folder name,folder_name,,Inbox 5,a41,b2,0,tp
+a41/b2-1,compose compose,to,to,,,a41,b2,1,fp
+a41/b2-2,to,to,to,,,a41,b2,2,tp
+a41/b2-3,to,to,to,,,a41,b2,3,tp
+a41/b2-4,subject subject,subject subject label,subject_label,,Subject,a41,b2,4,tp
+a41/b2-5,message text message content,sent from outlook email app for android mailbox create new body,mailbox_create_new_body,,"
+
+--
+Sent from Outlook Email App for Android",a41,b2,5,tp
+a41/b2-6,send send,send email toolbar action send,toolbar_action_send,Send Email,,a41,b2,6,tp
+a41/b2-7,icst super cool subject,icst super cool subject,subject,,ICSTSuperCool,a41,b2,7,tp
+a42/b1-0,reset your password subject,reset your password subject,subject,,Reset Your Password,a42,b1,0,tp
+a42/b1-1,search search,mails search icon search,icon_search,Mails search,,a42,b1,1,tp
+a42/b1-2,search search src text,search text search text,search_text,,Search Text,a42,b1,2,tp
+a42/b1-3,search search src text,search text search text,search_text,,Search Text,a42,b1,3,tp
+a42/b1-4,reset your password subject,reset your password subject,subject,,Reset Your Password,a42,b1,4,tp
+a42/b2-0,inbox actionbar title first,inbox 5 folder name,folder_name,,Inbox 5,a42,b2,0,tp
+a42/b2-1,compose compose,to,to,,,a42,b2,1,fp
+a42/b2-2,,,,,,a42,b2,2,fn
+a42/b2-3,,,,,,a42,b2,3,fn
+a42/b2-4,subject subject,subject subject label,subject_label,,Subject,a42,b2,4,tp
+a42/b2-5,message text message content,sent from outlook email app for android mailbox create new body,mailbox_create_new_body,,"
+
+--
+Sent from Outlook Email App for Android",a42,b2,5,tp
+a42/b2-6,send send,send email toolbar action send,toolbar_action_send,Send Email,,a42,b2,6,tp
+a42/b2-7,icst super cool subject,icst super cool subject,subject,,ICSTSuperCool,a42,b2,7,tp
+a44/b1-0,reset your password subject,reset your password subject,subject,,Reset Your Password,a44,b1,0,tp
+a44/b1-1,search toolbar action search,mails search icon search,icon_search,Mails search,,a44,b1,1,tp
+a44/b1-2,search text search text,search text search text,search_text,,Search Text,a44,b1,2,tp
+a44/b1-3,search text search text,search text search text,search_text,,Search Text,a44,b1,3,tp
+a44/b1-4,reset your password subject,reset your password subject,subject,,Reset Your Password,a44,b1,4,tp
+a44/b2-0,inbox folder name,inbox 5 folder name,folder_name,,Inbox 5,a44,b2,0,tp
+a44/b2-1,new message toolbar action new,to,to,,,a44,b2,1,fp
+a44/b2-2,edit text to,to,to,,,a44,b2,2,tp
+a44/b2-3,edit text to,to,to,,,a44,b2,3,tp
+a44/b2-4,subject,subject,subject,,,a44,b2,4,tp
+a44/b2-5,sent from mymail for android mailbox create new body,sent from outlook email app for android mailbox create new body,mailbox_create_new_body,,"
+
+--
+Sent from Outlook Email App for Android",a44,b2,5,tp
+a44/b2-6,send toolbar action send,send email toolbar action send,toolbar_action_send,Send Email,,a44,b2,6,tp
+a44/b2-7,icst super cool subject,icst super cool subject,subject,,ICSTSuperCool,a44,b2,7,tp
+a45/b1-0,reset your password subject,reset your password subject,subject,,Reset Your Password,a45,b1,0,tp
+a45/b1-1,search toolbar action search,mails search icon search,icon_search,Mails search,,a45,b1,1,tp
+a45/b1-2,search text search text,search text search text,search_text,,Search Text,a45,b1,2,tp
+a45/b1-3,search text search text,search text search text,search_text,,Search Text,a45,b1,3,tp
+a45/b1-4,reset your password subject,reset your password subject,subject,,Reset Your Password,a45,b1,4,tp
+a45/b2-0,inbox folder name,inbox 5 folder name,folder_name,,Inbox 5,a45,b2,0,tp
+a45/b2-1,new message toolbar action new,to,to,,,a45,b2,1,fp
+a45/b2-2,edit text to,to,to,,,a45,b2,2,tp
+a45/b2-3,edit text to,to,to,,,a45,b2,3,tp
+a45/b2-4,subject,subject,subject,,,a45,b2,4,tp
+a45/b2-5,sent from outlook email app for android mailbox create new body,sent from outlook email app for android mailbox create new body,mailbox_create_new_body,,"
+
+--
+Sent from Outlook Email App for Android",a45,b2,5,tp
+a45/b2-6,send toolbar action send,send email toolbar action send,toolbar_action_send,Send Email,,a45,b2,6,tp
+a45/b2-7,icst super cool subject,icst super cool subject,subject,,ICSTSuperCool,a45,b2,7,tp

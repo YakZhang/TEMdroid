@@ -1,0 +1,25 @@
+,content_desc,text,type,id,xpath,action,b1,b2,activity,input
+0,Me,Me,oracle,com.yelp.android:id/hot_button_profile,,wait_until_element_presence,0,,.nearby.ui.ActivityNearby,
+1,Me,Me,gui,com.yelp.android:id/hot_button_profile,,click,1,,.nearby.ui.ActivityNearby,
+2,,Sign Up,oracle,com.yelp.android:id/sign_up_button,,wait_until_element_presence,2,,.ui.activities.profile.loggedout.ActivityUserProfileLoggedOut,
+3,,Sign Up,gui,com.yelp.android:id/sign_up_button,,click,3,,.ui.activities.profile.loggedout.ActivityUserProfileLoggedOut,
+4,,Sign up with Email,oracle,com.yelp.android:id/email_sign_up,,wait_until_element_presence,4,,.ui.activities.ActivityCreateAccount,
+5,,Sign up with Email,gui,com.yelp.android:id/email_sign_up,,click,5,,.ui.activities.ActivityCreateAccount,
+6,,Email,oracle,com.yelp.android:id/email_address,,wait_until_element_presence,6,,.ui.activities.ActivityCreateAccount,
+7,,Email,gui,com.yelp.android:id/email_address,,send_keys,7,,.ui.activities.ActivityCreateAccount,email
+8,,Password,gui,com.yelp.android:id/password,,send_keys,8,,.ui.activities.ActivityCreateAccount,password
+9,,Next,gui,com.yelp.android:id/signup_next_button,,click,9,,.ui.activities.ActivityCreateAccount,
+10,,Last Name,gui,com.yelp.android:id/last_name,,send_keys,10,,.ui.activities.ActivityCreateAccount,name
+11,,First Name,gui,com.yelp.android:id/first_name,,send_keys_and_hide_keyboard,11,,.ui.activities.ActivityCreateAccount,name
+12,,Next,gui,com.yelp.android:id/signup_next_button_2,,click,12,,.ui.activities.ActivityCreateAccount,
+13,,Sign Up,gui,com.yelp.android:id/signup_button,,click,13,,.ui.activities.ActivityCreateAccount,
+14,,name,oracle,com.yelp.android:id/user_profile_name,,wait_until_text_presence,14,,.ui.activities.profile.ActivityUserProfile,
+15,Me,Me,oracle,com.yelp.android:id/hot_button_profile,,wait_until_element_presence,,0,.nearby.ui.ActivityNearby,
+16,Me,Me,gui,com.yelp.android:id/hot_button_profile,,click,,1,.nearby.ui.ActivityNearby,
+17,,Log In,oracle,com.yelp.android:id/log_in_button,,wait_until_element_presence,,2,.ui.activities.profile.loggedout.ActivityUserProfileLoggedOut,
+18,,Log In,gui,com.yelp.android:id/log_in_button,,click,,3,.ui.activities.profile.loggedout.ActivityUserProfileLoggedOut,
+19,,Password,oracle,com.yelp.android:id/activity_login_editPassword,,wait_until_element_presence,,4,.ui.activities.ActivityLogin,
+20,,Password,gui,com.yelp.android:id/activity_login_editPassword,,send_keys,,5,.ui.activities.ActivityLogin,password
+21,,Email,gui,com.yelp.android:id/activity_login_editUsername,,send_keys_and_hide_keyboard,,6,.ui.activities.ActivityLogin,email
+22,,Log In,gui,com.yelp.android:id/activity_login_btnLogin,,click,,7,.ui.activities.ActivityLogin,
+23,,name,oracle,com.yelp.android:id/user_profile_name,,wait_until_text_presence,,8,.ui.activities.profile.ActivityUserProfile,

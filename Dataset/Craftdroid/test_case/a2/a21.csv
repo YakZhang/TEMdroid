@@ -1,0 +1,11 @@
+,content_desc,text,type,id,xpath,action,current_activity,b1,b2,activity,input
+0,,,gui,com.rubenroy.minimaltodo:id/addToDoItemFAB,,click,,,0,.MainActivity,
+1,,,gui,com.rubenroy.minimaltodo:id/userToDoEditText,,send_keys_and_hide_keyboard,,,1,.AddToDoActivity,Sample\bTo\bdo
+2,,,gui,com.rubenroy.minimaltodo:id/makeToDoFloatingActionButton,,click,,,2,.AddToDoActivity,
+3,,Sample Todo,oracle,com.rubenroy.minimaltodo:id/toDoListItemTextview,,wait_until_text_presence,,,3,.MainActivity,Sample\bTo\bdo
+4,,Sample Todo,gui,com.rubenroy.minimaltodo:id/toDoListItemTextview,,swipe_right,,,4,.MainActivity,
+5,,Sample Todo,oracle,com.rubenroy.minimaltodo:id/toDoListItemTextview,,wait_until_text_invisible,,,5,.MainActivity,Sample\bTo\bdo
+6,,,gui,com.rubenroy.minimaltodo:id/addToDoItemFAB,,click,,0,,.MainActivity,
+7,,Sample Todo,gui,com.rubenroy.minimaltodo:id/userToDoEditText,,send_keys_and_hide_keyboard,,1,,.AddToDoActivity,Sample\bTo\bdo
+8,,,gui,com.rubenroy.minimaltodo:id/makeToDoFloatingActionButton,,click,,2,,.AddToDoActivity,
+9,,Sample Todo,oracle,com.rubenroy.minimaltodo:id/toDoListItemTextview,"//android.widget.TextView[@text=""Sample Todo""]",wait_until_element_presence,,3,,.MainActivity,

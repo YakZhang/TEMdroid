@@ -1,0 +1,12 @@
+,content_desc,text,type,id,xpath,action,current_activity,b1,b2,activity,input
+0,,Accept,gui,android:id/button1,,click,,,0,.MainActivity,
+1,,100,gui,com.tleapps.simpletipcalculator:id/editTextBill,,clear_and_send_keys,,,1,.MainActivity,56.6
+2,,15,gui,com.tleapps.simpletipcalculator:id/editTextTip,,clear_and_send_keys,,,2,.MainActivity,15
+3,,1,gui,com.tleapps.simpletipcalculator:id/editTextSplit,,clear_and_send_keys_and_hide_keyboard,,,3,.MainActivity,4
+4,,Calculate,gui,com.tleapps.simpletipcalculator:id/buttonCalculate,,click,,,4,.MainActivity,
+5,,$16.27 ,oracle,com.tleapps.simpletipcalculator:id/textViewTotalPerPerson,,wait_until_text_presence,,,5,.MainActivity,16.27
+6,,Accept,gui,android:id/button1,,click,,0,,.MainActivity,
+7,,100,gui,com.tleapps.simpletipcalculator:id/editTextBill,,clear_and_send_keys,,1,,.MainActivity,56.6
+8,,15,gui,com.tleapps.simpletipcalculator:id/editTextTip,,clear_and_send_keys_and_hide_keyboard,,2,,.MainActivity,15
+9,,Calculate,gui,com.tleapps.simpletipcalculator:id/buttonCalculate,,click,,3,,.MainActivity,65.09
+10,,$65.09 ,oracle,com.tleapps.simpletipcalculator:id/textViewTotalToPay,,wait_until_text_presence,,4,,.MainActivity,

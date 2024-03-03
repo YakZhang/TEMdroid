@@ -1,0 +1,55 @@
+widget1,text_feature1,text_feature2,tgt_resource,tgt_content,tgt_text,widget1_app,widget1_function,widget1_index,evaluate
+a21/b1-0,add to do item,add task task add,taskAdd,Add Task,,a21,b1,0,tp
+a21/b1-1,user to do edit text,sample todo task text,taskText,,Sample.To.do,a21,b1,1,fp
+a21/b1-2,make to do floating action button,add task task add,taskAdd,Add Task,,a21,b1,2,tp
+a21/b1-3,sample to do to do list item text view,sample todo task text,taskText,,Sample.To.do,a21,b1,3,tp
+a21/b2-0,add to do item,add task task add,taskAdd,Add Task,,a21,b2,0,tp
+a21/b2-1,user to do edit text,sample todo task text,taskText,,Sample.To.do,a21,b2,1,fp
+a21/b2-2,make to do floating action button,add task task add,taskAdd,Add Task,,a21,b2,2,tp
+a21/b2-3,sample to do to do list item text view,sample todo task text,taskText,,Sample.To.do,a21,b2,3,tp
+a21/b2-4,sample to do to do list item text view,sample todo task text,taskText,,Sample.To.do,a21,b2,4,tp
+a21/b2-5,sample to do to do list item text view,sample todo task text,taskText,,Sample.To.do,a21,b2,5,fp
+a22/b1-0,add,add task task add,taskAdd,Add Task,,a22,b1,0,tp
+a22/b1-1,edit text title,sample todo task text,taskText,,Sample.To.do,a22,b1,1,fp
+a22/b1-2,add,add task task add,taskAdd,Add Task,,a22,b1,2,tp
+a22/b1-3,sample to do txt thing,sample todo task text,taskText,,Sample.To.do,a22,b1,3,tp
+a22/b2-0,add,add task task add,taskAdd,Add Task,,a22,b2,0,tp
+a22/b2-1,edit text title,sample todo task text,taskText,,Sample.To.do,a22,b2,1,fp
+a22/b2-2,add,add task task add,taskAdd,Add Task,,a22,b2,2,tp
+a22/b2-3,sample to do txt thing,sample todo task text,taskText,,Sample.To.do,a22,b2,3,tp
+a22/b2-4,sample to do txt thing,sample todo task text,taskText,,Sample.To.do,a22,b2,4,tp
+a22/b2-5,delete button delete,delete all title,title,,Delete All,a22,b2,5,tp
+a22/b2-6,sample to do txt thing,sample todo task text,taskText,,Sample.To.do,a22,b2,6,fp
+a23/b1-0,,,,,,a23,b1,0,tn
+a23/b1-1,new task,add task task add,taskAdd,Add Task,,a23,b1,1,tp
+a23/b1-2,edit text new task name,sample todo task text,taskText,,Sample.To.do,a23,b1,2,fp
+a23/b1-3,ok button new task ok,add task task add,taskAdd,Add Task,,a23,b1,3,tp
+a23/b1-4,sample to do text view exlv task name,sample todo task text,taskText,,Sample.To.do,a23,b1,4,tp
+a23/b2-0,,,,,,a23,b2,0,tn
+a23/b2-1,new task,add task task add,taskAdd,Add Task,,a23,b2,1,tp
+a23/b2-2,edit text new task name,sample todo task text,taskText,,Sample.To.do,a23,b2,2,fp
+a23/b2-3,ok button new task ok,add task task add,taskAdd,Add Task,,a23,b2,3,tp
+a23/b2-4,sample to do text view exlv task name,sample todo task text,taskText,,Sample.To.do,a23,b2,4,tp
+a23/b2-5,sample to do text view exlv task name,sample todo task text,taskText,,Sample.To.do,a23,b2,5,tp
+a23/b2-6,delete to do task title,delete all title,title,,Delete All,a23,b2,6,tp
+a23/b2-7,sample to do text view exlv task name,sample todo task text,taskText,,Sample.To.do,a23,b2,7,fp
+a24/b1-0,,,,,,a24,b1,0,tn
+a24/b1-1,add add list button,add task task add,taskAdd,Add Task,,a24,b1,1,tp
+a24/b1-2,sample to do text1,sample todo task text,taskText,,Sample.To.do,a24,b1,2,tp
+a24/b2-0,,,,,,a24,b2,0,tn
+a24/b2-1,add add list button,add task task add,taskAdd,Add Task,,a24,b2,1,tp
+a24/b2-2,sample to do text1,sample todo task text,taskText,,Sample.To.do,a24,b2,2,tp
+a24/b2-3,sample to do text1,sample todo task text,taskText,,Sample.To.do,a24,b2,3,tp
+a24/b2-4,,,,,,a24,b2,4,fn
+a24/b2-5,,,,,,a24,b2,5,tp
+a24/b2-6,sample to do text1,sample todo task text,taskText,,Sample.To.do,a24,b2,6,fp
+a25/b1-0,add,add task task add,taskAdd,Add Task,,a25,b1,0,tp
+a25/b1-1,new item new item description,sample todo task text,taskText,,Sample.To.do,a25,b1,1,fp
+a25/b1-2,done button add new item,add task task add,taskAdd,Add Task,,a25,b1,2,tp
+a25/b1-3,sample to do text description,sample todo task text,taskText,,Sample.To.do,a25,b1,3,tp
+a25/b2-0,add,add task task add,taskAdd,Add Task,,a25,b2,0,tp
+a25/b2-1,new item new item description,sample todo task text,taskText,,Sample.To.do,a25,b2,1,fp
+a25/b2-2,done button add new item,add task task add,taskAdd,Add Task,,a25,b2,2,tp
+a25/b2-3,sample to do text description,sample todo task text,taskText,,Sample.To.do,a25,b2,3,tp
+a25/b2-4,sample to do text description,sample todo task text,taskText,,Sample.To.do,a25,b2,4,tp
+a25/b2-5,sample to do text description,sample todo task text,taskText,,Sample.To.do,a25,b2,5,fp

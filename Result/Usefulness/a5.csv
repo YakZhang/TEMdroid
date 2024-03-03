@@ -1,0 +1,44 @@
+widget1,text_feature1,text_feature2,tgt_resource,tgt_content,tgt_text,widget1_app,widget1_function,widget1_index,evaluate
+a51/b1-0,bill edit text,bill amount bill amount edit text,billAmountEditText,,Bill Amount,a51,b1,0,tp
+a51/b1-1,15 percent edit text,15 tip percent tip percent edit text,tipPercentEditText,,15 Tip Percent,a51,b1,1,tp
+a51/b1-2,total edit text,0 result total text view,resultTotalTextView,,0,a51,b1,2,tp
+a51/b2-0,bill edit text,bill amount bill amount edit text,billAmountEditText,,Bill Amount,a51,b2,0,tp
+a51/b2-1,15 percent edit text,15 tip percent tip percent edit text,tipPercentEditText,,15 Tip Percent,a51,b2,1,tp
+a51/b2-2,1 people edit text,1 people people edit text,peopleEditText,,1 People,a51,b2,2,tp
+a51/b2-3,,,,,,a51,b2,3,fn
+a52/b1-0,bill edit text,bill amount bill amount edit text,billAmountEditText,,Bill Amount,a52,b1,0,tp
+a52/b1-1,15 tip edit text,15 tip percent tip percent edit text,tipPercentEditText,,15 Tip Percent,a52,b1,1,tp
+a52/b1-2,final bill edit text,per person: per person text view,perPersonTextView,,Per Person:,a52,b1,2,fp
+a52/b2-0,bill edit text,bill amount bill amount edit text,billAmountEditText,,Bill Amount,a52,b2,0,tp
+a52/b2-1,15 tip edit text,15 tip percent tip percent edit text,tipPercentEditText,,15 Tip Percent,a52,b2,1,tp
+a52/b2-2,,,,,,a52,b2,2,fn
+a52/b2-3,per person edit text,0 result per person text view,resultPerPersonTextView,,0,a52,b2,3,tp
+a53/b1-0,accept button1,1 people people edit text,peopleEditText,,1 People,a53,b1,0,fp
+a53/b1-1,edit text bill,bill amount bill amount edit text,billAmountEditText,,Bill Amount,a53,b1,1,tp
+a53/b1-2,edit text tip,15 tip percent tip percent edit text,tipPercentEditText,,15 Tip Percent,a53,b1,2,tp
+a53/b1-3,,,,,,a53,b1,3,tn
+a53/b1-4,text view total to pay,total total text view,totalTextView,,Total,a53,b1,4,tp
+a53/b2-0,accept button1,1 people people edit text,peopleEditText,,1 People,a53,b2,0,fp
+a53/b2-1,edit text bill,bill amount bill amount edit text,billAmountEditText,,Bill Amount,a53,b2,1,tp
+a53/b2-2,edit text tip,15 tip percent tip percent edit text,tipPercentEditText,,15 Tip Percent,a53,b2,2,tp
+a53/b2-3,,,,,,a53,b2,3,fn
+a53/b2-4,,,,,,a53,b2,4,tn
+a53/b2-5,text view total per person,0 result per person text view,resultPerPersonTextView,,0,a53,b2,5,tp
+a54/b1-0,bill amount edit text,bill amount bill amount edit text,billAmountEditText,,Bill Amount,a54,b1,0,tp
+a54/b1-1,tip percent edit text,15 tip percent tip percent edit text,tipPercentEditText,,15 Tip Percent,a54,b1,1,tp
+a54/b1-2,,,,,,a54,b1,2,tn
+a54/b1-3,total bill amount text view,total total text view,totalTextView,,Total,a54,b1,3,tp
+a54/b2-0,bill amount edit text,bill amount bill amount edit text,billAmountEditText,,Bill Amount,a54,b2,0,tp
+a54/b2-1,tip percent edit text,15 tip percent tip percent edit text,tipPercentEditText,,15 Tip Percent,a54,b2,1,tp
+a54/b2-2,1 guest number edit text,1 people people edit text,peopleEditText,,1 People,a54,b2,2,tp
+a54/b2-3,,,,,,a54,b2,3,tn
+a54/b2-4,per person bill text view,0 result per person text view,resultPerPersonTextView,,0,a54,b2,4,tp
+a55/b1-0,edit text bill total,bill amount bill amount edit text,billAmountEditText,,Bill Amount,a55,b1,0,tp
+a55/b1-1,15 edit textt tip amount,15 tip percent tip percent edit text,tipPercentEditText,,15 Tip Percent,a55,b1,1,tp
+a55/b1-2,,,,,,a55,b1,2,tn
+a55/b1-3,text view total with tip,total total text view,totalTextView,,Total,a55,b1,3,tp
+a55/b2-0,edit text bill total,bill amount bill amount edit text,billAmountEditText,,Bill Amount,a55,b2,0,tp
+a55/b2-1,15 edit text tip amount,15 tip percent tip percent edit text,tipPercentEditText,,15 Tip Percent,a55,b2,1,tp
+a55/b2-2,1 edit text person,1 people people edit text,peopleEditText,,1 People,a55,b2,2,tp
+a55/b2-3,,,,,,a55,b2,3,tn
+a55/b2-4,text view person pay,0 result per person text view,resultPerPersonTextView,,0,a55,b2,4,tp

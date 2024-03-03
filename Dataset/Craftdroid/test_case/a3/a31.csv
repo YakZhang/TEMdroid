@@ -1,0 +1,19 @@
+,content_desc,text,type,id,xpath,action,b1,b2,activity,input
+0,,Create Account,oracle,com.contextlogic.geek:id/login_fragment_create_account_button,,wait_until_element_presence,0,,com.contextlogic.wish.activity.login.LoginActivity,
+1,,Create Account,gui,com.contextlogic.geek:id/login_fragment_create_account_button,,click,1,,com.contextlogic.wish.activity.login.LoginActivity,
+2,,Email,oracle,com.contextlogic.geek:id/create_account_fragment_email_text,,wait_until_element_presence,2,,com.contextlogic.wish.activity.login.createaccount.CreateAccountActivity,
+3,,Email,gui,com.contextlogic.geek:id/create_account_fragment_email_text,,send_keys,3,,com.contextlogic.wish.activity.login.createaccount.CreateAccountActivity,
+4,,Confirm Email,gui,com.contextlogic.geek:id/create_account_fragment_confirm_email_text,,clear_and_send_keys,4,,com.contextlogic.wish.activity.login.createaccount.CreateAccountActivity,
+5,,,gui,com.contextlogic.geek:id/create_account_fragment_password_text,,send_keys,5,,com.contextlogic.wish.activity.login.createaccount.CreateAccountActivity,
+6,,Last Name,gui,com.contextlogic.geek:id/create_account_fragment_last_name_text,,send_keys,6,,com.contextlogic.wish.activity.login.createaccount.CreateAccountActivity,Name
+7,,First Name,gui,com.contextlogic.geek:id/create_account_fragment_first_name_text,,send_keys_and_hide_keyboard,7,,com.contextlogic.wish.activity.login.createaccount.CreateAccountActivity,Name
+8,,Create Account,gui,com.contextlogic.geek:id/create_account_fragment_create_account_button,,click,8,,com.contextlogic.wish.activity.login.createaccount.CreateAccountActivity,
+19,,Sign In,oracle,com.contextlogic.geek:id/login_fragment_sign_in_button,,wait_until_element_presence,,0,com.contextlogic.wish.activity.login.LoginActivity,
+20,,Sign In,gui,com.contextlogic.geek:id/login_fragment_sign_in_button,,click,,1,com.contextlogic.wish.activity.login.LoginActivity,
+21,,,oracle,com.contextlogic.geek:id/sign_in_fragment_password_text,,wait_until_element_presence,,2,com.contextlogic.wish.activity.login.signin.SignInActivity,
+22,,,gui,com.contextlogic.geek:id/sign_in_fragment_password_text,,send_keys,,3,com.contextlogic.wish.activity.login.signin.SignInActivity,
+23,,Email,gui,com.contextlogic.geek:id/sign_in_fragment_email_text,,send_keys_and_hide_keyboard,,4,com.contextlogic.wish.activity.login.signin.SignInActivity,mail
+24,,Sign In,gui,com.contextlogic.geek:id/sign_in_fragment_sign_in_button,,click,,5,com.contextlogic.wish.activity.login.signin.SignInActivity,
+25,Open Menu,,oracle,,"//android.widget.ImageButton[@content-desc=""Open Menu""]",wait_until_element_presence,,6,com.contextlogic.wish.activity.browse.BrowseActivity,
+26,Open Menu,,gui,,"//android.widget.ImageButton[@content-desc=""Open Menu""]",click,,7,com.contextlogic.wish.activity.browse.BrowseActivity,
+27,,,oracle,com.contextlogic.geek:id/menu_profile_name,,wait_until_text_presence,,8,com.contextlogic.wish.activity.browse.BrowseActivity,

@@ -1,0 +1,11 @@
+,content_desc,text,type,id,xpath,action,current_activity,b1,b2,activity,input
+0,,Search,gui,acr.browser.lightning:id/search,,click,,,0,.MainActivity,
+1,,Search,gui,acr.browser.lightning:id/search,,send_keys_and_enter,,,1,.MainActivity,https://www.ics.uci.edu
+2,Donald Bren School of Information and Computer Sciences,,oracle,,"//android.view.View[@content-desc=""Donald Bren School of Information and Computer Sciences""]",wait_until_element_presence,,,2,.MainActivity,
+3,,https://www.ics.uci.edu,gui,acr.browser.lightning:id/search,,send_keys_and_enter,,,3,.MainActivity,https://uci.edu
+4,UCI homepage,,oracle,,"//android.view.View[@content-desc=""UCI homepage""]",wait_until_element_presence,,,4,.MainActivity,
+5,,,SYS_EVENT,,,,,,5,,
+6,Donald Bren School of Information and Computer Sciences,,oracle,,"//android.view.View[@content-desc=""Donald Bren School of Information and Computer Sciences""]",wait_until_element_presence,,,6,.MainActivity,
+7,,Search,gui,acr.browser.lightning:id/search,,click,,0,,.MainActivity,
+8,,Search,gui,acr.browser.lightning:id/search,,send_keys_and_enter,,1,,.MainActivity,https://www.ics.uci.edu
+9,Donald Bren School of Information and Computer Sciences,,oracle,,"//android.view.View[@content-desc=""Donald Bren School of Information and Computer Sciences""]",wait_until_element_presence,,2,,.MainActivity,

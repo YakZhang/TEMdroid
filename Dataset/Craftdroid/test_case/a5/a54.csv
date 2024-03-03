@@ -1,0 +1,10 @@
+,content_desc,text,type,id,xpath,action,current_activity,b1,b2,activity,input
+0,,0,gui,com.zaidisoft.teninone:id/billAmountET,,clear_and_send_keys,,0,,.Calculator,56.6
+1,,0,gui,com.zaidisoft.teninone:id/tipPercentET,,clear_and_send_keys_and_hide_keyboard,,1,,.Calculator,15
+2,,Calculate,gui,com.zaidisoft.teninone:id/calculateBtn,,click,,2,,.Calculator,
+3,,65.09,oracle,com.zaidisoft.teninone:id/totalBillAmountTV,,wait_until_text_presence,,3,,.Calculator,65.09
+4,,0,gui,com.zaidisoft.teninone:id/billAmountET,,clear_and_send_keys,,,0,.Calculator,56.6
+5,,0,gui,com.zaidisoft.teninone:id/tipPercentET,,clear_and_send_keys,,,1,.Calculator,15
+6,,1,gui,com.zaidisoft.teninone:id/guestNumberET,,clear_and_send_keys_and_hide_keyboard,,,2,.Calculator,4
+7,,Calculate,gui,com.zaidisoft.teninone:id/calculateBtn,,click,,,3,.Calculator,
+8,,16.27,oracle,com.zaidisoft.teninone:id/perPersonBillTV,,wait_until_text_presence,,,4,.Calculator,16.27
