@@ -1,0 +1,11 @@
+,content_desc,text,type,id,xpath,action,current_activity,b1,b2,activity,input
+0,,,gui,com.woefe.shoppinglist:id/fab_add,,click,,,0,.activity.MainActivity,
+1,,New Item,gui,com.woefe.shoppinglist:id/new_item_description,,send_keys_and_hide_keyboard,,,1,.activity.MainActivity,Sample\bTo\bdo
+2,Done,,gui,com.woefe.shoppinglist:id/button_add_new_item,,click,,,2,.activity.MainActivity,
+3,,Sample Todo,oracle,com.woefe.shoppinglist:id/text_description,,wait_until_text_presence,,,3,.activity.MainActivity,Sample\bTo\bdo
+4,,Sample Todo,gui,com.woefe.shoppinglist:id/text_description,,swipe_right,,,4,.activity.MainActivity,
+5,,Sample Todo,oracle,com.woefe.shoppinglist:id/text_description,,wait_until_text_invisible,,,5,.activity.MainActivity,Sample\bTodo
+6,,,gui,com.woefe.shoppinglist:id/fab_add,,click,,0,,.activity.MainActivity,
+7,,New Item,gui,com.woefe.shoppinglist:id/new_item_description,,send_keys_and_hide_keyboard,,1,,.activity.MainActivity,Sample\bTo\bdo
+8,Done,,gui,com.woefe.shoppinglist:id/button_add_new_item,,click,,2,,.activity.MainActivity,
+9,,Sample Todo,oracle,com.woefe.shoppinglist:id/text_description,"//android.widget.TextView[@text=""Sample Todo""]",wait_until_element_presence,,3,,.activity.MainActivity,

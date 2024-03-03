@@ -1,0 +1,14 @@
+,content_desc,text,type,id,xpath,action,b1,b2,activity,input
+0,,Reset Your Password,oracle,park.outlook.sign.in.client:id/subject,,wait_until_text_presence,0,,ru.mail.ui.SlideStackActivity,
+1,Search,,gui,park.outlook.sign.in.client:id/toolbar_action_search,,click,1,,ru.mail.ui.SlideStackActivity,
+2,,Search Text,oracle,park.outlook.sign.in.client:id/search_text,,wait_until_element_presence,2,,ru.mail.ui.SearchActivity,
+3,,Search Text,gui,park.outlook.sign.in.client:id/search_text,,send_keys_and_enter,3,,ru.mail.ui.SearchActivity,Reset
+4,,Reset Your Password,oracle,park.outlook.sign.in.client:id/subject,,wait_until_text_presence,4,,ru.mail.ui.SearchActivity,
+5,,Inbox ,oracle,park.outlook.sign.in.client:id/folder_name,,wait_until_text_presence,,0,ru.mail.ui.SlideStackActivity,
+6,New Message,,gui,park.outlook.sign.in.client:id/toolbar_action_new,,click,,1,ru.mail.ui.SlideStackActivity,
+7,,_,oracle,park.outlook.sign.in.client:id/edit_text_to,,wait_until_element_presence,,2,ru.mail.ui.writemail.WriteActivity,
+8,,_,gui,park.outlook.sign.in.client:id/edit_text_to,,send_keys_and_hide_keyboard,,3,ru.mail.ui.writemail.WriteActivity,
+9,,,gui,park.outlook.sign.in.client:id/subject,,send_keys,,4,ru.mail.ui.writemail.WriteActivity,ICSTSupperCool
+10,,Sent from Outlook Email App for Android,gui,park.outlook.sign.in.client:id/mailbox_create_new_body,,send_keys,,5,ru.mail.ui.writemail.WriteActivity,ICSTSupperCoolBody
+11,Send,,gui,park.outlook.sign.in.client:id/toolbar_action_send,,click,,6,ru.mail.ui.writemail.WriteActivity,
+12,,"""ICSTSuperCool""",oracle,park.outlook.sign.in.client:id/subject,,wait_until_text_presence,,7,ru.mail.ui.SlideStackActivity,

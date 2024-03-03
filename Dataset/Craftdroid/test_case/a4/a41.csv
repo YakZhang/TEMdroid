@@ -1,0 +1,14 @@
+,content_desc,text,type,id,xpath,action,b1,b2,activity,input
+0,,Reset Your Password,oracle,com.fsck.k9:id/subject,,wait_until_text_presence,0,,.activity.MessageList,
+1,Search,,gui,com.fsck.k9:id/search,,click,1,,.activity.MessageList,
+2,,   Search,oracle,com.fsck.k9:id/search_src_text,,wait_until_element_presence,2,,.activity.MessageList,
+3,,   Search,gui,com.fsck.k9:id/search_src_text,,send_keys_and_enter,3,,.activity.MessageList,Reset
+4,,Reset Your Password,oracle,com.fsck.k9:id/subject,,wait_until_text_presence,4,,.activity.Search,
+5,,Inbox,oracle,com.fsck.k9:id/actionbar_title_first,/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/androidx.drawerlayout.widget.DrawerLayout/android.widget.RelativeLayout/android.view.ViewGroup/android.widget.TextView,wait_until_element_presence,,0,.activity.MessageList,
+6,Compose,,gui,com.fsck.k9:id/compose,,click,,1,.activity.MessageList,
+7,,,oracle,com.fsck.k9:id/to,,wait_until_element_presence,,2,.activity.MessageCompose,
+8,,,gui,com.fsck.k9:id/to,,send_keys_and_hide_keyboard,,3,.activity.MessageCompose,email
+9,,Subject,gui,com.fsck.k9:id/subject,,send_keys,,4,.activity.MessageCompose,ICSTSuperCool
+10,,Message text,gui,com.fsck.k9:id/message_content,,send_keys,,5,.activity.MessageCompose,ICSTSuperCoolBody
+11,Send,,gui,com.fsck.k9:id/send,,click,,6,.activity.MessageCompose,
+12,,"""ICSTSuperCool""",oracle,com.fsck.k9:id/subject,,wait_until_text_presence,,7,.activity.MessageList,

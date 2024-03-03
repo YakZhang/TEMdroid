@@ -1,0 +1,14 @@
+,content_desc,text,type,id,xpath,action,b1,b2,activity,input
+0,,Inbox,oracle,com.my.mail:id/folder_name,,wait_until_text_presence,,0,ru.mail.ui.SlideStackActivity,
+1,New Message,,gui,com.my.mail:id/toolbar_action_new,,click,,1,ru.mail.ui.SlideStackActivity,
+2,,_,oracle,com.my.mail:id/edit_text_to,,wait_until_element_presence,,2,ru.mail.ui.writemail.WriteActivity,
+3,,_,gui,com.my.mail:id/edit_text_to,,send_keys_and_hide_keyboard,,3,ru.mail.ui.writemail.WriteActivity,email
+4,,,gui,com.my.mail:id/subject,,send_keys,,4,ru.mail.ui.writemail.WriteActivity,ICSTSuperCool
+5,,Sent from myMail for Android,gui,com.my.mail:id/mailbox_create_new_body,,send_keys,,5,ru.mail.ui.writemail.WriteActivity,ICSTSuperCoolBody
+6,Send,,gui,com.my.mail:id/toolbar_action_send,,click,,6,ru.mail.ui.writemail.WriteActivity,
+7,,"""ICSTSuperCool""",oracle,com.my.mail:id/subject,,wait_until_text_presence,,7,ru.mail.ui.SlideStackActivity,ICSTSuperCool
+8,,Reset Your Password,oracle,com.my.mail:id/subject,,wait_until_text_presence,0,,ru.mail.ui.SlideStackActivity,
+9,Search,,gui,com.my.mail:id/toolbar_action_search,,click,1,,ru.mail.ui.SlideStackActivity,
+10,,Search Text,oracle,com.my.mail:id/search_text,,wait_until_element_presence,2,,ru.mail.ui.SearchActivity,
+11,,Search Text,gui,com.my.mail:id/search_text,,send_keys_and_enter,3,,ru.mail.ui.SearchActivity,Reset
+12,,Reset Your Password,oracle,com.my.mail:id/subject,,wait_until_text_presence,4,,ru.mail.ui.SearchActivity,

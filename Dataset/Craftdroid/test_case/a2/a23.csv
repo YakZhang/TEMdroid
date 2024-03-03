@@ -1,0 +1,14 @@
+,content_desc,text,type,id,xpath,action,current_activity,b1,b2,activity,input
+0,,Skip,gui,org.secuso.privacyfriendlytodolist:id/btn_skip,,click,,,0,.tutorial.TutorialActivity,
+1,,,gui,org.secuso.privacyfriendlytodolist:id/fab_new_task,,click,,,1,.view.MainActivity,
+2,,Name,gui,org.secuso.privacyfriendlytodolist:id/et_new_task_name,,send_keys_and_hide_keyboard,,,2,.view.MainActivity,Sample\bTo\bdo
+3,,Okay,gui,org.secuso.privacyfriendlytodolist:id/bt_new_task_ok,,click,,,3,.view.MainActivity,
+4,,Sample Todo,oracle,org.secuso.privacyfriendlytodolist:id/tv_exlv_task_name,,wait_until_text_presence,,,4,.view.MainActivity,Sample\bTodo
+5,,Sample Todo,gui,org.secuso.privacyfriendlytodolist:id/tv_exlv_task_name,,long_press,,,5,.view.MainActivity,
+6,,Delete To-Do Task,gui,android:id/title,,click,,,6,.view.MainActivity,
+7,,Sample Todo,oracle,org.secuso.privacyfriendlytodolist:id/tv_exlv_task_name,,wait_until_text_invisible,,,7,.view.MainActivity,Sample\bTodo
+8,,Skip,gui,org.secuso.privacyfriendlytodolist:id/btn_skip,,click,,0,,.tutorial.TutorialActivity,
+9,,,gui,org.secuso.privacyfriendlytodolist:id/fab_new_task,,click,,1,,.view.MainActivity,
+10,,Name,gui,org.secuso.privacyfriendlytodolist:id/et_new_task_name,,send_keys_and_hide_keyboard,,2,,.view.MainActivity,Sample\bTo\bdo
+11,,Okay,gui,org.secuso.privacyfriendlytodolist:id/bt_new_task_ok,,click,,3,,.view.MainActivity,
+12,,Sample Todo,oracle,org.secuso.privacyfriendlytodolist:id/tv_exlv_task_name,"//android.widget.TextView[@text=""Sample Todo""]",wait_until_element_presence,,4,,.view.MainActivity,

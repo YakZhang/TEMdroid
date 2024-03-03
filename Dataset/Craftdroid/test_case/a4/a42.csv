@@ -1,0 +1,14 @@
+,content_desc,text,type,id,xpath,action,b1,b2,activity,input
+0,,Inbox,oracle,com.appple.app.email:id/actionbar_title_first,,wait_until_text_presence,,0,com.fsck.k9.activity.MessageList,
+1,Compose,,gui,com.appple.app.email:id/compose,,click,,1,com.fsck.k9.activity.MessageList,
+2,,To,oracle,com.appple.app.email:id/to,,wait_until_element_presence,,2,com.fsck.k9.activity.MessageCompose,
+3,,To,gui,com.appple.app.email:id/to,,send_keys_and_hide_keyboard,,3,com.fsck.k9.activity.MessageCompose,email
+4,,Subject,gui,com.appple.app.email:id/subject,,send_keys,,4,com.fsck.k9.activity.MessageCompose,ICSTSuperCool
+5,,Message text,gui,com.appple.app.email:id/message_content,,send_keys,,5,com.fsck.k9.activity.MessageCompose,ICSTSuperCoolBody
+6,Send,,gui,com.appple.app.email:id/send,,click,,6,com.fsck.k9.activity.MessageCompose,
+7,,"""ICSTSuperCool""",oracle,com.appple.app.email:id/subject,,wait_until_text_presence,,7,com.fsck.k9.activity.MessageList,
+8,,Reset Your Password,oracle,com.appple.app.email:id/subject,,wait_until_text_presence,0,,com.fsck.k9.activity.MessageList,
+9,Search,,gui,com.appple.app.email:id/search,,click,1,,com.fsck.k9.activity.MessageList,
+10,,   Search,oracle,android:id/search_src_text,,wait_until_element_presence,2,,com.fsck.k9.activity.MessageList,
+11,,   Search,gui,android:id/search_src_text,,send_keys_and_enter,3,,com.fsck.k9.activity.MessageList,Reset
+12,,Reset Your Password,oracle,com.appple.app.email:id/subject,,wait_until_text_presence,4,,com.fsck.k9.activity.Search,

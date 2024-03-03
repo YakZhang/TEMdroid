@@ -1,0 +1,11 @@
+,content_desc,text,type,id,xpath,action,current_activity,b1,b2,activity,input
+0,,https://html.duckduckgo.com/html/?q=,gui,com.stoutner.privacybrowser.standard:id/url_edittext,,click,,,0,com.stoutner.privacybrowser.activities.MainWebViewActivity,
+1,,https://html.duckduckgo.com/html/?q=,gui,com.stoutner.privacybrowser.standard:id/url_edittext,,send_keys_and_enter,,,1,com.stoutner.privacybrowser.activities.MainWebViewActivity,
+2,Donald Bren School of Information and Computer Sciences,,oracle,,"//android.view.View[@content-desc=""Donald Bren School of Information and Computer Sciences""]",wait_until_element_presence,,,2,com.stoutner.privacybrowser.activities.MainWebViewActivity,
+3,,https://www.ics.uci.edu,gui,com.stoutner.privacybrowser.standard:id/url_edittext,,send_keys_and_enter,,,3,com.stoutner.privacybrowser.activities.MainWebViewActivity,https://www.ics.uci.edu
+4,UCI homepage,,oracle,,"//android.view.View[@content-desc=""UCI homepage""]",wait_until_element_presence,,,4,com.stoutner.privacybrowser.activities.MainWebViewActivity,
+5,,,SYS_EVENT,,,,,,5,,
+6,Donald Bren School of Information and Computer Sciences,,oracle,,"//android.view.View[@content-desc=""Donald Bren School of Information and Computer Sciences""]",wait_until_element_presence,,,6,com.stoutner.privacybrowser.activities.MainWebViewActivity,
+7,,https://html.duckduckgo.com/html/?q=,gui,com.stoutner.privacybrowser.standard:id/url_edittext,,click,,0,,com.stoutner.privacybrowser.activities.MainWebViewActivity,
+8,,https://html.duckduckgo.com/html/?q=,gui,com.stoutner.privacybrowser.standard:id/url_edittext,,send_keys_and_enter,,1,,com.stoutner.privacybrowser.activities.MainWebViewActivity,https://www.ics.uci.edu
+9,Donald Bren School of Information and Computer Sciences,,oracle,,"//android.view.View[@content-desc=""Donald Bren School of Information and Computer Sciences""]",wait_until_element_presence,,2,,com.stoutner.privacybrowser.activities.MainWebViewActivity,
